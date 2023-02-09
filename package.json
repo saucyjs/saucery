@@ -1,0 +1,26 @@
+{
+  "name": "@saucyjs/saucery",
+  "version": "0.0.1",
+  "description": "Taste delightful repository management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Write some tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saucyjs/saucery.git"
+  },
+  "keywords": [
+    "repo-manager",
+    "codebase-management",
+    "repository-management",
+    "typescript",
+    "javascript"
+  ],
+  "author": "Miles Nash <saucyjs@milesnash.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saucyjs/saucery/issues"
+  },
+  "homepage": "https://github.com/saucyjs/saucery#readme"
+}
